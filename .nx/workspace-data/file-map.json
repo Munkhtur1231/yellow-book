@@ -1,0 +1,181 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.0.2",
+  "pathMappings": {
+    "@/*": [
+      "./*"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "yellow-books": [
+        {
+          "file": ".github/workflows/ci.yml",
+          "hash": "9625354987291451686"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "10646058492919050670"
+        },
+        {
+          "file": ".prettierignore",
+          "hash": "7826843180910687796"
+        },
+        {
+          "file": ".prettierrc",
+          "hash": "10446539021726608752"
+        },
+        {
+          "file": "API_DOCUMENTATION.md",
+          "hash": "6922533049203627565"
+        },
+        {
+          "file": "BACKEND_README.md",
+          "hash": "15604845412365506545"
+        },
+        {
+          "file": "README.md",
+          "hash": "10766794746169900117"
+        },
+        {
+          "file": "app/api/places/[id]/route.ts",
+          "hash": "16230863630613643863"
+        },
+        {
+          "file": "app/api/places/route.ts",
+          "hash": "17449544731030928294"
+        },
+        {
+          "file": "app/details/[id]/page.tsx",
+          "hash": "10908016494926284933"
+        },
+        {
+          "file": "app/globals.css",
+          "hash": "13803416617225302536"
+        },
+        {
+          "file": "app/layout.tsx",
+          "hash": "3768300601413009371"
+        },
+        {
+          "file": "app/page.tsx",
+          "hash": "7592491663322200214"
+        },
+        {
+          "file": "app/search/page.tsx",
+          "hash": "10974056983868629204"
+        },
+        {
+          "file": "components/AddPlaceModal.tsx",
+          "hash": "7902493827283519966"
+        },
+        {
+          "file": "components/Header.tsx",
+          "hash": "11052108362283239756"
+        },
+        {
+          "file": "eslint.config.mjs",
+          "hash": "18301593208606916262"
+        },
+        {
+          "file": "lib/api.ts",
+          "hash": "10029933495296675798"
+        },
+        {
+          "file": "lib/prisma.ts",
+          "hash": "6197902141249274741"
+        },
+        {
+          "file": "next.config.ts",
+          "hash": "17157214668998829023"
+        },
+        {
+          "file": "nx.json",
+          "hash": "8031603799960055644"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "3451752267097274000"
+        },
+        {
+          "file": "package.json",
+          "hash": "3003539920644671158",
+          "deps": [
+            "npm:@tailwindcss/postcss",
+            "npm:@types/node",
+            "npm:@types/react",
+            "npm:@types/react-dom",
+            "npm:eslint",
+            "npm:eslint-config-next",
+            "npm:eslint-config-prettier",
+            "npm:eslint-plugin-prettier",
+            "npm:nx",
+            "npm:prettier",
+            "npm:tailwindcss",
+            "npm:ts-node",
+            "npm:typescript",
+            "npm:@ant-design/icons",
+            "npm:@prisma/client",
+            "npm:antd",
+            "npm:dotenv",
+            "npm:next",
+            "npm:prisma",
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "postcss.config.mjs",
+          "hash": "12094959087305894889"
+        },
+        {
+          "file": "prisma.config.ts",
+          "hash": "5262921202294763889"
+        },
+        {
+          "file": "prisma/schema.prisma",
+          "hash": "14079085780796109132"
+        },
+        {
+          "file": "prisma/seed.ts",
+          "hash": "7990937790421424938"
+        },
+        {
+          "file": "project.json",
+          "hash": "18151010122034859673"
+        },
+        {
+          "file": "public/file.svg",
+          "hash": "15617830351863523835"
+        },
+        {
+          "file": "public/globe.svg",
+          "hash": "9134466864871335697"
+        },
+        {
+          "file": "public/next.svg",
+          "hash": "8300767200008744458"
+        },
+        {
+          "file": "public/vercel.svg",
+          "hash": "3007623926711696394"
+        },
+        {
+          "file": "public/window.svg",
+          "hash": "16677869292061012332"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "8097238392793607448"
+        },
+        {
+          "file": "types/index.ts",
+          "hash": "8271095655488033643"
+        }
+      ]
+    }
+  },
+  "externalNodesHash": "13558103919323408833"
+}
