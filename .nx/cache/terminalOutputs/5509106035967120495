@@ -1,3 +1,0 @@
-> eslint . --ext .ts,.tsx,.js,.jsx
-
-

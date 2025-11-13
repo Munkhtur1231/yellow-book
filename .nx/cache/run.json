@@ -1,8 +1,8 @@
 {
   "run": {
     "command": "nx affected -t lint typecheck",
-    "startTime": "2025-11-06T00:16:45.124Z",
-    "endTime": "2025-11-06T00:16:49.181Z",
+    "startTime": "2025-11-13T02:34:27.944Z",
+    "endTime": "2025-11-13T02:34:28.012Z",
     "inner": false
   },
   "tasks": [
@@ -11,10 +11,10 @@
       "target": "typecheck",
       "projectName": "yellow-books",
       "hash": "8872459648602392077",
-      "startTime": "2025-11-06T00:16:45.171Z",
-      "endTime": "2025-11-06T00:16:48.787Z",
+      "startTime": "2025-11-13T02:34:28.007Z",
+      "endTime": "2025-11-13T02:34:28.009Z",
       "params": "",
-      "cacheStatus": "cache-miss",
+      "cacheStatus": "local-cache-hit",
       "status": 0
     },
     {
@@ -22,10 +22,10 @@
       "target": "lint",
       "projectName": "yellow-books",
       "hash": "5837383663843301486",
-      "startTime": "2025-11-06T00:16:45.171Z",
-      "endTime": "2025-11-06T00:16:49.179Z",
+      "startTime": "2025-11-13T02:34:28.007Z",
+      "endTime": "2025-11-13T02:34:28.009Z",
       "params": "",
-      "cacheStatus": "cache-miss",
+      "cacheStatus": "local-cache-hit",
       "status": 0
     }
   ]
